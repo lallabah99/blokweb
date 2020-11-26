@@ -3,13 +3,6 @@
   box-sizing:border-box;  
 }
 
-
-@font-face {
-  font-family: 'myFirstFont';
-  src: url(DIN_Pro_400.ttf);
-}
-
-
 *{
   font-family:"DinPro",sans-serif;
 }
@@ -33,10 +26,13 @@ header a.lidworden{
   right:1em;
   top:0.5em;
   background-color: #5AB999;
-  text-decoration: none;
   color:white;
   padding: 0.8em;
   font-family: 'myFirstFont', sans-serif;
+}
+
+a{
+  text-decoration: none;
 }
 
 header a.logo{
@@ -56,35 +52,90 @@ a.lidworden:hover{
   background-color: #54A389;
 }
 
-main {
-  position: relative;  
+
+.yogahouding{
+  position: relative; 
+  max-width: 100vw;
+  margin:0;
+  padding:0;
+  top:-0.5em;
+
 }
 
-main img .yogahouding{
-  width: 50%;
-  
-}
-
-main p{
-  background-color:#E13C31;
-  color:white;
-  font-size: 1.5em;
-  font-weight: 50;
-  text-align: center;
-  padding:1em;
-  font-family: 'myFirstFont', sans-serif;
+main{
   position: relative;
-  top:-3em;
 }
 
 .informatie{
   margin-left:5vw;
   margin-right: 5vw;
+  position: absolute;
+  top:18em;
+  left:1vw;
+  
+  
+}
+
+.informatie h3{
+  background-color:#E13C31;
+  color:white;
+  font-size: 1.5em;
+  font-weight: 50;
+  text-align: center;
+  padding:1em 4.5em 1em 4.5em;
+  font-family: 'myFirstFont', sans-serif;
 }
 
 .vergrootglas{
- position:absolute;
- right: 3em;
- bottom:0.5em;
+ position: absolute;
+ right: 1em;
+ bottom:3em;
  width:1.8em;
+}
+
+.fit{
+
+  margin-left:5vw;
+  margin-right: 7vw;
+  position: absolute;
+  top:25em;
+  left:1vw;
+  background-color: #E13C31;
+  padding:1em 4.5em 1em 4.5em;
+}
+
+.fit h1{
+  font-weight: 250;
+  font-size: 2em;
+
+  background-color: #E13C31;
+  color:white;
+  font-family: 'myFirstFont', sans-serif;
+  font-size: 3em;
+  font-weight: 900;
+  text-align: left;
+}
+
+.fit h3{
+  font-weight: 100;
+  font-size: 1.3em;
+
+  background-color: #E13C31;
+  color:white;
+  font-family: 'myFirstFont', sans-serif;
+  font-weight: 50;
+  text-align: left;
+  margin-bottom: 2em;
+  
+}
+
+.fit a {
+  background-color:white;
+  color: #E13C31;
+  font-size:1.5em;
+  padding-right:1.5em;
+  padding-top:0.6em;
+  padding-bottom:0.4em;
+  padding-left: 0.8em;
+  margin-bottom: 20em;
 }
