@@ -44,9 +44,9 @@ Hij is nu "passend" voor een iphone 6/7/8 plus.
 
 **Screenshot(s):**
 
-(images/scherm1.eigenontwerp)
-(images/scherm2.eigenontwerp)
-(images/scherm3.eigenontwerp)
+(images/scherm1.eigenontwerp.png)
+(images/scherm2.eigenontwerp.png)
+(images/scherm3.eigenontwerp.png)
 
 ### Agenda voor meeting
 
@@ -69,8 +69,8 @@ Meeting: 27 november 11:30
 
 **Screenshot(s):**
 
-(images/fitforfree.home.png)
-(images/fitforfree.aanbod.png)
+(/images/fitforfree.home.png)
+(/images/fitforfree.aanbod.png)
 
 **Breakdown-schets(en):**
 (images/fitforfree.begin.png)
