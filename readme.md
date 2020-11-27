@@ -38,15 +38,20 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Het is me eigenlijk nog niet zo goed gelukt om de juiste font toe te voegen terwijl dit andere keren wel is gelukt. Daarnaast is hij nu alleen nog werkend voor 1 type telefoon. Ik wil hem responsive hebben voor welke telefoon dan ook. Dit is niet helemaal goed gegaan. Ik hoop dat ik dit komende weken kan verbeteren door meer te oefenen. 
+
+Hij is nu "passend" voor een iphone 6/7/8 plus.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+(images/scherm1.eigenontwerp)
+(images/scherm2.eigenontwerp)
+(images/scherm3.eigenontwerp)
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Meeting: 27 november 11:30
+
 
 ### Verslag van meeting
 

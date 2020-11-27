@@ -67,10 +67,10 @@ main{
 }
 
 .informatie{
-  margin-left:5vw;
-  margin-right: 5vw;
+  margin-left:2vw;
+  margin-right: 2vw;
   position: absolute;
-  top:18em;
+  top:12em;
   left:1vw;
   
   
@@ -94,14 +94,15 @@ main{
 }
 
 .fit{
-
-  margin-left:5vw;
-  margin-right: 7vw;
+  margin-left:2vw;
+  margin-right: 2vw;
   position: absolute;
-  top:25em;
+  top:18.5em;
   left:1vw;
   background-color: #E13C31;
   padding:1em 4.5em 1em 4.5em;
+  margin-top: 2em;
+  padding-bottom:2em;
 }
 
 .fit h1{
@@ -124,7 +125,6 @@ main{
   color:white;
   font-family: 'myFirstFont', sans-serif;
   font-weight: 50;
-  text-align: left;
   margin-bottom: 2em;
   
 }
@@ -132,10 +132,64 @@ main{
 .fit a {
   background-color:white;
   color: #E13C31;
-  font-size:1.5em;
-  padding-right:1.5em;
+  font-size:1.3em;
+  padding-right:1.3em;
   padding-top:0.6em;
   padding-bottom:0.4em;
   padding-left: 0.8em;
   margin-bottom: 20em;
+}
+
+.gewicht{
+  position: relative;
+}
+
+
+.gewicht img{
+  position: absolute;
+  padding-left:2vw;
+  padding-right: 2vw;
+  top: 25em;
+
+  
+}
+.vrouw img{
+  top: 71em;
+  max-width: 98%;
+}
+
+
+#fit2{
+  margin-top: 47.5em;
+}
+
+.nobackground{
+  margin-top: 95em;
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+
+.nobackground h2{
+  color:#E13C31;
+}
+
+
+.nobackground #bekijk{
+  background-color: #5AB999;
+  color:white;
+  padding:1em;
+  font-size: 1.2em;
+  margin-bottom: 2em;
+}
+
+.nobackground #schrijf{
+  color:#5AB999;
+  font-size: 1.2em;
+  margin-left: 0.5em;
+  margin-bottom: 2em;
+
+}
+
+.nobackground p{
+  margin-bottom: 2em;
 }
