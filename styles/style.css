@@ -452,9 +452,9 @@ h4 {
 
 .locatieopties-content a:hover  {background-color: #ddd;}
 
-.locatieopties:hover .dropdown-content {display: block;}
+.locatieopties:hover .locatieopties-content {display: block;}
 
 
-.locatieopties:checked .dropbtn {background-color: #3e8e41;}
+.locatieopties:checked .keuze {background-color: #3e8e41;}
 
 /* Einde dropdown-------------------------------------------------------- */
