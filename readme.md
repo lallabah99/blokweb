@@ -35,7 +35,7 @@ Het is me eindelijk gelukt om de verschillende lettertypes toe te voegen, zorgen
 
 Ik ben best tevrede over de voortgang. Nog lang niet waar ik wil zijn, maar er zit zeker progressie in en dat is wel motiverend. Ik hoop dat ik bij het volgende voortgangsgesprek de buttons wat meer kan aan passen en dat ik het meer op mijn eigen manier kan doen. Ook hoop ik dat ik dan javascript kan toepassen voor kleine animaties van de knoppen. 
 
-[images/voortgang2.home.png]
+images/voortgang2.home.png
 [images/voortgang2.p.png]
 [images/voortgang2.fitstart.png]
 [images/voortgang2.opacity.png]
