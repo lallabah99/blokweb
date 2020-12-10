@@ -70,7 +70,7 @@ Meeting: 27 november 11:30
 **Screenshot(s):**
 
 (/images/fitforfree.home.png)
-(/images/fitforfree.aanbod.png)
+(images/fitforfree.aanbod.png)
 
 **Breakdown-schets(en):**
 (images/fitforfree.begin.png)
