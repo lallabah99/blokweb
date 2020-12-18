@@ -22,7 +22,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
-
 ## Voortgang 3 (week 6)
 
 -same as voortgang 1-
@@ -31,15 +30,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
-Het is me eindelijk gelukt om de verschillende lettertypes toe te voegen, zorgen dat alles goed onder elkaar komt zonder 90em te gebruiken en het responsive te maken voor verschillende mobiele devices. 
-
-Ik ben best tevrede over de voortgang. Nog lang niet waar ik wil zijn, maar er zit zeker progressie in en dat is wel motiverend. Ik hoop dat ik bij het volgende voortgangsgesprek de buttons wat meer kan aan passen en dat ik het meer op mijn eigen manier kan doen. Ook hoop ik dat ik dan javascript kan toepassen voor kleine animaties van de knoppen. 
-
-images/voortgang2.home.png
-[images/voortgang2.p.png]
-[images/voortgang2.fitstart.png]
-[images/voortgang2.opacity.png]
-[images/voortgang2.opties.png]
+-same as voortgang 1-
 
 
 
@@ -53,13 +44,13 @@ Hij is nu "passend" voor een iphone 6/7/8 plus.
 
 **Screenshot(s):**
 
-[images/scherm1.eigenontwerp.png]
-[images/scherm2.eigenontwerp.png]
-[images/scherm3.eigenontwerp.png]
+(images/scherm1.eigenontwerp.png)
+(images/scherm2.eigenontwerp.png)
+(images/scherm3.eigenontwerp.png)
 
 ### Agenda voor meeting
 
-Meeting: 8 Januari 2021 om 11:30 uur 
+Meeting: 27 november 11:30
 
 
 ### Verslag van meeting
@@ -78,12 +69,12 @@ Meeting: 8 Januari 2021 om 11:30 uur
 
 **Screenshot(s):**
 
-[images/fitforfree.home.png]
-[images/fitforfree.aanbod.png]
+(/images/fitforfree.home.png)
+(images/fitforfree.aanbod.png)
 
 **Breakdown-schets(en):**
-[images/fitforfree.begin.png]
-[images/fitforfree.menu.png]
-[images/fitforfree.aanbod.png]
-[images/fitforfree.doelen.png]
-[images/fitforfree.footer.png]
+(images/fitforfree.begin.png)
+(images/fitforfree.menu.png)
+(images/fitforfree.aanbod.png)
+(images/fitforfree.doelen.png)
+(images/fitforfree.footer.png)

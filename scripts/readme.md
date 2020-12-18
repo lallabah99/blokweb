@@ -25,7 +25,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+- https://codepen.io/shooft/pen/jOMOroZ NAV wil ik nog bekijken 
+
+Ik heb ervoor gezorgd dat er maar 1 H1 is per pagina. En om de br eruit te halen heb ik de width bij h1 op 300px gezet. Hierdoor komt het automatisch onder elkaar te staan. 
+
+Ik heb de padding en margin met left en right 2vw aangepast naar em de witte knop met de afbeelding verandererd waardoor pijltje er altijd naast komt te staan, ongeacht de breedte.  
+
 
 
 
