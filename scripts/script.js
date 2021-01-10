@@ -17,8 +17,5 @@ function toggleHamburger(){
   hamburger.addEventListener("click", toggleHamburger)
 
 
-  var dropDown = document.querySelector(".dropdown")
-
-
 
 

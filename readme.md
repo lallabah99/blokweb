@@ -6,6 +6,7 @@
 1.  https://dev.to/ljcdev/easy-hamburger-menu-with-js-2do0 Heb ik gebruikt bij het ontwerpen van een hamburger menu
 2.  https://www.youtube.com/watch?v=o0YiZF9XZL0 Als voorbeeld bij dropdown
 3.  https://codepen.io/storyofedd-the-decoder/pen/MLrjjL?editors=1100 Als voorbeeld bij dropdown
+4. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
 
 
 
@@ -48,6 +49,8 @@ Verder heb ik besloten om het drop down menu en hamburger menu compleet over nie
 - Width veranderen naar 100% van de img
 - Witte knop display block, padding weghalen
 - Margin top em 
+
+
 ￼
 **Screenshot(s):**
 ![Home 3](images/home.3.png "Voortgang 3 Home")
